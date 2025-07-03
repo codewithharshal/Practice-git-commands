@@ -1,3 +1,7 @@
 console.log("Hello Git!");
+<<<<<<< HEAD
 console.log("Hello GitHub!");
-console.log("Tring Out Revert");
+
+=======
+>>>>>>> parent of 588ebca (add github log to hello.js)
+ 
